@@ -9,6 +9,9 @@
 ## Sadman Sakib Alam
 - Maintained Devices: POCO F1.
 
+## Atharva Agnihotri
+- Maintained Devices: Realme XT.
+
 ## Rio Setiawan Suharjo
 - Maintained Devices: Redmi 4X.
 

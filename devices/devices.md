@@ -6,6 +6,9 @@
 ## POCO
 - POCO F1 (beryllium)
 
+## Realme 
+- Realme XT (RMX1921)
+
 ## Redmi
 - Redmi 4X (santoni)
 - Redmi 5 (rosy)
