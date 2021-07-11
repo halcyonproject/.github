@@ -9,3 +9,5 @@ Here we store all documents related to ConquerOS Development
 4. [Maintainer Code of conduct](maintainers/maintainers_coc.md)
 5. [Core Team](team/core.md)
 6. [Maintainers](team/maintainers.md)
+7. [Applying for official maintainership](maintainers/applying.md)
+
