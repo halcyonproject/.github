@@ -1,6 +1,6 @@
 # ConquerOS Official Device Maintainers
 
-## Shinbi Krishna
+## Shibi Krishna
 - Maintained Devices: ASUS Zenfone Max Pro M2.
 
 ## Hanif Ardhani
