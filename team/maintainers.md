@@ -9,6 +9,9 @@
 ## Sadman Sakib Alam
 - Maintained Devices: POCO F1.
 
+## Rizak Kamal
+- Maintained Devices: POCO X3 NFC.
+
 ## Atharva Agnihotri
 - Maintained Devices: Realme XT.
 
