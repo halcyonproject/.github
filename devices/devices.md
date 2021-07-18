@@ -5,6 +5,7 @@
 
 ## POCO
 - POCO F1 (beryllium)
+- POCO X3 NFC (surya/karna)
 
 ## Realme 
 - Realme XT (RMX1921)
