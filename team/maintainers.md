@@ -3,6 +3,9 @@
 ## Shibi Krishna
 - Maintained Devices: ASUS Zenfone Max Pro M2.
 
+## Pranav Temkar
+- Maintained Devices: Lenovo Zuk Z2 Plus.
+
 ## Hanif Ardhani
 - Maintained Devices: Xiaomi Mi 8 Lite.
 

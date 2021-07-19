@@ -3,6 +3,9 @@
 ## ASUS
 - ZenFone Max Pro M2 (XO1BD)
 
+## Lenovo
+- Lenovo Zuk Z2 Plus (z2_plus)
+
 ## POCO
 - POCO F1 (beryllium)
 - POCO X3 NFC (surya/karna)
