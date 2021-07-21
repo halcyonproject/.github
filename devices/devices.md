@@ -25,4 +25,5 @@
 - Redmi Note 9 Pro Global (joyeuse)
 
 ## Xiaomi
-- Mi 8 Lite (pkatina)
+- Mi 6X {wayne}
+- Mi 8 Lite (platina)

@@ -31,7 +31,7 @@
 - Maintained Devices: Redmi Note 5 Pro/AI.
 
 ## Alif Fathur  
-- Maintained Devices: Redmi Note 5 Pro/AI. Redmi Note 6 Pro.
+- Maintained Devices: Mi 6X, Redmi Note 5 Pro/AI. Redmi Note 6 Pro.
 
 ## Aradhea Rizky
 - Maintained Devices: Redmi Note 7/7S.
