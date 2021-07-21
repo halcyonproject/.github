@@ -24,6 +24,9 @@
 ## Pulkit Agarwal
 - Maintained Devices: Redmi 5.
 
+## Galang Saputra
+- Maintained Devices: Redmi Note 5A Lite/Prime.
+
 ## Felix Febryan
 - Maintained Devices: Redmi Note 5 Pro/AI.
 
