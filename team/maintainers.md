@@ -34,7 +34,7 @@
 - Maintained Devices: Mi 6X, Redmi Note 5 Pro/AI. Redmi Note 6 Pro.
 
 ## Aradhea Rizky
-- Maintained Devices: Redmi Note 7/7S.
+- Maintained Devices: POCO X3 Pro
 
 ## George BK
 - Maintained Devices: Redmi Note 7 Pro.
