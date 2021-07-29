@@ -36,6 +36,9 @@
 ## Aradhea Rizky
 - Maintained Devices: POCO X3 Pro
 
+## Yash Agarwal
+- Maintained Devices: Redmi Note 7.
+
 ## George BK
 - Maintained Devices: Redmi Note 7 Pro.
 
