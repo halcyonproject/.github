@@ -1,6 +1,6 @@
 # Maintainership application Pull-request template
 
-To apply for Official maintainership, your Pull-reuuest notes have to looks like this:
+To apply for Official maintainership, your Pull-request description have to looks like this:
 ```
 Maintainer Name: YOUR FULL NAME
 Telegram Username: @YourTGUsername
