@@ -24,6 +24,7 @@
 - Redmi Note 7 Pro (violet)
 - Redmi Note 8 (ginkgo)
 - Redmi Note 9 Pro Global (joyeuse)
+- Redmi Note 4/4X (mido)
 
 ## Xiaomi
 - Mi 6X {wayne}

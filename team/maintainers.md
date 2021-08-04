@@ -53,3 +53,6 @@
 
 ## Hendra
 - Maintained Devices: Redmi Note 9 Pro Global.
+
+## Triono
+- Maintained Devices: Redmi Note 4/4X
