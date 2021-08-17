@@ -56,3 +56,6 @@
 
 ## Triono
 - Maintained Devices: Redmi Note 4/4X
+
+## Rinne Tensei
+- Maintained Devices: Xiaomi Mi 8.
