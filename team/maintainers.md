@@ -15,9 +15,6 @@
 ## Rizak Kamal
 - Maintained Devices: POCO X3 NFC.
 
-## Atharva Agnihotri
-- Maintained Devices: Realme XT.
-
 ## Rio Setiawan Suharjo
 - Maintained Devices: Redmi 4X.
 

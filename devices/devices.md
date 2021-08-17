@@ -11,9 +11,6 @@
 - POCO X3 NFC (surya/karna)
 - POCO X3 Pro (vayu/bhima)
 
-## Realme 
-- Realme XT (RMX1921)
-
 ## Redmi
 - Redmi 4X (santoni)
 - Redmi 5 (rosy)
