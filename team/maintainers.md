@@ -56,3 +56,6 @@
 
 ## Rinne Tensei
 - Maintained Devices: Xiaomi Mi 8.
+
+## Mhmmdfadly
+- Maintained Devices: Realme 5/5i/5s
