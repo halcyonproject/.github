@@ -59,3 +59,6 @@
 
 ## Mhmmdfadly
 - Maintained Devices: Realme 5/5i/5s
+
+## Jamie H
+- Maintained Devices: Redmi SDM720G Series
