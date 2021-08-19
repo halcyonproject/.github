@@ -9,3 +9,4 @@ To become ConquerOS Official Device Maintainers, you have to complete following 
 3. Maintainers MUST able to keep source and commit history properly
 4. Maintainers MUST able to provide two updates every month
 5. Maintainers MUST able to complete our device requirements
+6. Maintainers MUST able to use Jenkins.
