@@ -17,6 +17,7 @@
 ## Redmi
 - Redmi 4X (santoni)
 - Redmi 5 (rosy)
+- Redmi 8 Series (olives)
 - Redmi Note 5A Lite/Prime (ulysse)
 - Redmi Note 5 Pro/AI (whyred)
 - Redmi Note 6 Pro (tulip)
