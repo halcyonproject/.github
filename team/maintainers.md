@@ -62,3 +62,6 @@
 
 ## Jamie H
 - Maintained Devices: Redmi SDM720G Series
+
+## Firmansyah
+- Maintained Devices: Redmi 8 Series
