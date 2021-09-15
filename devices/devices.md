@@ -32,3 +32,4 @@
 - Mi 6X {wayne}
 - Mi 8 Lite (platina)
 - Mi 8 (dipper)
+- Mi 10T / 10T Pro (apollon)
