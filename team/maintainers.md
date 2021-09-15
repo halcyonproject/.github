@@ -65,3 +65,6 @@
 
 ## Firmansyah
 - Maintained Devices: Redmi 8 Series
+
+## Ahmed Tohamy
+- Maintained Devices: Xiaomi Mi 10T / 10T Pro
