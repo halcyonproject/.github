@@ -1,4 +1,4 @@
-# ConquerOS Core Team Members
+# conquerOS Core Team Members
 
 ## Alif Fathur  
 - Role: Lead Developer, UI/UX Maintainer, Device Maintainer/

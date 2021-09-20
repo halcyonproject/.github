@@ -1,8 +1,8 @@
-# ConquerOS Oficial device Requirements
+# conquerOS Oficial device Requirements
 
 You can check reference of used keyword [here](https://datatracker.ietf.org/doc/html/rfc2119).
 
-ConquerOS Official Devices have to complete following requirements:
+conquerOS Official Devices have to complete following requirements:
 
 ## Audio
 * All devices MUST support audio playback for media content.

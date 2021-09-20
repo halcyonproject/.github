@@ -1,8 +1,8 @@
-# ConquerOS Maintainers Requirements
+# conquerOS Maintainers Requirements
 
 You can check reference of used keyword [here](https://datatracker.ietf.org/doc/html/rfc2119).
 
-To become ConquerOS Official Device Maintainers, you have to complete following requirements:
+To become conquerOS Official Device Maintainers, you have to complete following requirements:
 
 1. Maintainers MUST own the device that going to be maintained. Blind builds aren't allowed to be released.  
 2. Maintainers MUST able to use git properly  

@@ -1,4 +1,4 @@
-# ConquerOS Official Device List
+# conquerOS Official Device List
 
 ## ASUS
 - ZenFone Max Pro M2 (XO1BD)
