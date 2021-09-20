@@ -1,7 +1,5 @@
 # conquerOS Documentation
 
-Here we store all documents related to conquerOS Development
-
 ## Content
 - [Official Devices](devices/devices.md)
 - [Official Device Requirements](devices/device_req.md)

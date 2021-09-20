@@ -10,3 +10,6 @@ You can check reference of used keyword [here](https://datatracker.ietf.org/doc/
 * MUST NOT add any audio mods on OFFICIAL, BETA, ALPHA build tag  
 * MUST NOT leak anything from conquerOS private repositories  
 * MUST NOT include root on the build package  
+
+## Exceptions
+- Redmi Note 7 Pro ships Audio mods to fix Audio problem
