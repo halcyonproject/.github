@@ -64,7 +64,7 @@
 - Maintained Devices: Redmi SDM720G Series
 
 ## Firmansyah
-- Maintained Devices: Redmi 8 Series
+- Maintained Devices: Redmi 8 Series, Redmi 7A
 
 ## Ahmed Tohamy
 - Maintained Devices: Xiaomi Mi 10T / 10T Pro
