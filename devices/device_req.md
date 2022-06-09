@@ -4,6 +4,9 @@ You can check reference of used keyword [here](https://datatracker.ietf.org/doc/
 
 conquerOS Official Devices have to complete following requirements:
 
+## Architecture
+* The device have to be ARM64 Based.
+
 ## Audio
 * All devices MUST support audio playback for media content.
 * Phones MUST support in-call audio.
@@ -61,14 +64,8 @@ conquerOS Official Devices have to complete following requirements:
 ## SELinux status
 * All devices MUST be configured for SELinux Enforcing. Exceptions MAY be made for this.
 
-## Additional Features
-* All devices SHOULD support LiveDisplay. Exceptions MAY be made for this.
-
 ## Authorship
 * All commits MUST have proper authorship to the author of the commits.
-
-## Licenses
-* Your used kernel MUST be open source.
 
 ## Stability
 * If your build is deemed unstable by the team you may not be allowed to maintain officially.
