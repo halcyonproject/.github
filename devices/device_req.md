@@ -1,8 +1,8 @@
-# conquerOS Oficial device Requirements
+# Halcyon Oficial device Requirements
 
 You can check reference of used keyword [here](https://datatracker.ietf.org/doc/html/rfc2119).
 
-conquerOS Official Devices have to complete following requirements:
+Halcyon Official Devices have to complete following requirements:
 
 ## Architecture
 * The device have to be ARM64 Based.

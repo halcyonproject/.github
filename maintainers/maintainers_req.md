@@ -1,8 +1,8 @@
-# conquerOS Maintainers Requirements
+# Halcyon Maintainers Requirements
 
 You can check reference of used keyword [here](https://datatracker.ietf.org/doc/html/rfc2119).
 
-To become conquerOS Official Device Maintainers, you have to complete following requirements:
+To become Halcyon Official Device Maintainers, you have to complete following requirements:
 
 **The Maintainers:**
 * **MUST** own the device that going to be maintained. Blind builds aren't allowed to be released.  
