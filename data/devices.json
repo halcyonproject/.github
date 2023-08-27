@@ -1,0 +1,36 @@
+[
+   {
+      "name": "Redmi 9T/9 NFC/Note 9 4G",
+      "brand": "Xiaomi",
+      "codename": "lime",
+      "repositories": [
+         "device_xiaomi_chime",
+         "kernel_xiaomi_chime",
+         "vendor_xiaomi_chime",
+         "vendor_xiaomi_chime-perf",
+         "vendor_xiaomi_lime"
+      ]
+   },
+   {
+      "name": "POCO M3",
+      "brand": "Xiaomi",
+      "codename": "citrus",
+      "repositories": [
+         "device_xiaomi_chime",
+         "kernel_xiaomi_chime",
+         "vendor_xiaomi_chime",
+         "vendor_xiaomi_chime-perf",
+         "vendor_xiaomi_citrus"
+      ]
+   },
+   {
+      "name": "Redmi Note 8 Pro",
+      "brand": "Xiaomi",
+      "codename": "begonia",
+      "repositories": [
+         "device_xiaomi_begonia",
+         "kernel_xiaomi_begonia",
+         "vendor_xiaomi_begonia"
+      ]
+   }
+]
