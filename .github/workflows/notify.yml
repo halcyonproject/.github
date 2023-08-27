@@ -14,6 +14,7 @@ jobs:
           to: ${{ secrets.TELEGRAM_MNTR }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: markdown
+          disable_web_page_preview: true
           message: |
             New issue opened!
             *${{ github.event.issue.title }}* 
@@ -26,6 +27,7 @@ jobs:
           to: ${{ secrets.TELEGRAM_CH }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: markdown
+          disable_web_page_preview: true
           message: |
             New issue opened!
             *${{ github.event.issue.title }}* 
