@@ -31,6 +31,12 @@ body:
   type: input
   validations:
     required: true
+- attributes:
+    description: Take logcat on your Halcyon build, and attach the link to the logcat here
+    label: Logcat
+  type: textarea
+  validations:
+    required: true
 name: Device maintainer form
 description: Apllyf or Halcyon Official Maintainership
 title: New maintainer
